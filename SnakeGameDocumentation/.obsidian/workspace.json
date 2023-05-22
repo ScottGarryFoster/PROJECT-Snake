@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical/Knowleadge Base/Standards/Template.md",
+                "file": "Design/Templates/Design Documents.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical/Knowleadge Base/Standards/Template.md",
+                "file": "Design/Templates/Design Documents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical/Knowleadge Base/Standards/Template.md",
+                "file": "Design/Templates/Design Documents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical/Knowleadge Base/Standards/Template.md"
+                "file": "Design/Templates/Design Documents.md"
               }
             }
           }
@@ -148,15 +148,17 @@
   },
   "active": "aad1ff55b43fae46",
   "lastOpenFiles": [
+    "Technical/Knowleadge Base/Standards/Template.md",
+    "Design/Templates/Design Documents.md",
+    "Technical/Knowleadge Base/Standards/Assemblies and Projects.md",
+    "Overview.md",
+    "Design/Templates",
     "Technical/Knowleadge Base/Standards/Testing and Test Driven Development.md",
     "Technical/Knowleadge Base/Standards/Naming.md",
     "Technical/Knowleadge Base/Standards/Exceptions.md",
     "Technical/Knowleadge Base/Standards/Code Structure.md",
-    "Technical/Knowleadge Base/Standards/Assemblies and Projects.md",
-    "Technical/Knowleadge Base/Standards/Template.md",
     "Technical/Knowleadge Base/Standards/Relationships.canvas",
     "Technical/Knowleadge Base/Standards/Discussions/Testing and Mocks.md",
-    "Overview.md",
     "Technical/Knowleadge Base/Standards/Discussions",
     "Technical/Knowleadge Base/Standards",
     "Technical/Knowleadge Base/New folder",
