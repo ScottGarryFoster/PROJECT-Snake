@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design/Templates/Design Documents.md",
+                "file": "Design/Planning/Templates/Single Feature Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design/Templates/Design Documents.md",
+                "file": "Design/Planning/Templates/Single Feature Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design/Templates/Design Documents.md",
+                "file": "Design/Planning/Templates/Single Feature Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design/Templates/Design Documents.md"
+                "file": "Design/Planning/Templates/Single Feature Template.md"
               }
             }
           }
@@ -148,23 +148,29 @@
   },
   "active": "aad1ff55b43fae46",
   "lastOpenFiles": [
-    "Technical/Knowleadge Base/Standards/Template.md",
-    "Design/Templates/Design Documents.md",
-    "Technical/Knowleadge Base/Standards/Assemblies and Projects.md",
+    "Design/Knowledge Base",
+    "Design/Planning",
+    "Design/Planning/Templates/Design Documents.md",
+    "Design/Planning/Templates/Single Feature Template.md",
+    "Technical/Planning/System Design Documents/System Template.md",
+    "Technical/Planning/Technical Design Documents/TDD Template.md",
+    "Technical/Planning/System Design Documents",
+    "Technical/Planning/Technical Design Documents",
+    "Technical/Planning",
+    "Technical/Knowledge Base/Standards/Template.md",
+    "Technical/Knowledge Base/Standards/Assemblies and Projects.md",
     "Overview.md",
-    "Design/Templates",
-    "Technical/Knowleadge Base/Standards/Testing and Test Driven Development.md",
-    "Technical/Knowleadge Base/Standards/Naming.md",
-    "Technical/Knowleadge Base/Standards/Exceptions.md",
-    "Technical/Knowleadge Base/Standards/Code Structure.md",
+    "Design/Planning/Templates",
+    "Technical/Knowledge Base/Standards/Testing and Test Driven Development.md",
+    "Technical/Knowledge Base/Standards/Naming.md",
+    "Technical/Knowledge Base/Standards/Exceptions.md",
+    "Technical/Knowledge Base/Standards/Code Structure.md",
     "Technical/Knowleadge Base/Standards/Relationships.canvas",
     "Technical/Knowleadge Base/Standards/Discussions/Testing and Mocks.md",
     "Technical/Knowleadge Base/Standards/Discussions",
-    "Technical/Knowleadge Base/Standards",
+    "Technical/Knowledge Base/Standards",
     "Technical/Knowleadge Base/New folder",
-    "Technical/Knowleadge Base",
-    "Technical/New folder",
-    "Design",
-    "Technical"
+    "Technical/Knowledge Base",
+    "Technical/New folder"
   ]
 }
