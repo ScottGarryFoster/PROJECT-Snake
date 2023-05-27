@@ -3,7 +3,7 @@
 
 |Owner|State|Last_update|
 |--|--|--|
-|@ScottGarryFoster|Draft, Development, Review, Signed off|Date|
+|USERNAME|Draft, Development, Review, Signed off|Date|
 
 **Table of Contents**
 - [Core](#Core)
