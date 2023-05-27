@@ -1,4 +1,25 @@
-*Tags go here*
+
+*Tag the document here*
+
+|Owner|State|Last_update|
+|--|--|--|
+|@ScottGarryFoster|Draft, Development, Review, Signed off|Date|
+
+**Table of Contents**
+- [Summary](#Summary)
+- [Content](#Content)
+- [Why](#Why)
+	- [Design Risks](#Design%20Risks)
+	- [Background Research](#Background%20Research)
+- [Considerations](#Considerations)
+	- [Game Rating](#Game%20Rating)
+	- [Patents, Trademarks and Copyright](#Patents,%20Trademarks%20and%20Copyright)
+	- [Build and Systems](#Build%20and%20Systems)
+	- [Tools](#Tools)
+	- [Save file implications](#Save%20file%20implications)
+	- [Performance Implications](#Performance%20Implications)
+	- [Effect on other systems](#Effect%20on%20other%20systems)
+
 
 # Summary
 > **Introduce your feature in 280 characters or less.**
