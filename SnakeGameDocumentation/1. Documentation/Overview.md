@@ -15,7 +15,8 @@ To keep the documentation organised and under control there are best practices w
 1. When adding files, create a folder called **LinkedFiles** near to where the files are used. Prefix the files with the location and a dash between that and a descriptive name. For instance: *Documentation-PlantUMLImage* this ensures duplicates do not occur. References are global within Obsidian and it is easier to control with descriptive names.
 2. Add a Summary to every page. This ensures there is an easy point at which everyone may figure out whether the page is correct or not for their query. Keep in mind not everyone will find a page via the same link, directory tree or search tag so it is key to describe what the page's purpose is.
 3. Good organisation. Moving files around may break links and in general makes it harder to find information. Finding a suitable location straight away is much better than doing so later on.
-4. Markdown links over [Obsidian](https://obsidian.md/) links. It is key to understand that Obsidian platform is not necessarily the method everyone will use to view the information. If a link can work via [Github](https://github.com/)/standard [[Markdown]], then it is worth considering to include it.
+4. Markdown links when linking between pages. Markdown links will not work for [Github](https://github.com/) and [Obsidian](https://obsidian.md/) therefore it is best to use the internal Markdown links. These display as the name of the page on [Github](https://github.com/) and a link on [Obsidian](https://obsidian.md/). An example is displayed below.
+	* This is an internal link: [[Overview]]. It is displayed as "Overview" on both platforms. It is created in this format:  `[[Overview]]`
 5. Updating and reviewing pages. Documentation is only as useful as to how up to date it is. This is especially true for the knowledge base. If exceptions begin to arise within pages of the knowledge base it is worth considering a re-write. If there are new tools or software, it is worth writing new pages for these workflows. Capturing up to date information will help everyone.
 
 ---
@@ -54,10 +55,10 @@ At the top of most pages is a *status box* which contains the owner, state and l
 `#myTag`
 
 ## Table of Contents
-Most pages will contain a table of contents. This is a [Markdown](https://www.markdownguide.org/cheat-sheet/) set of links to headings in the page. It is created using an extension within [Obsidian](https://obsidian.md/). Instructions for how to use / insert these may be found [here](obsidian://open?vault=SnakeGameDocumentation&file=1.%20Documentation%2FKnowledge%20Base%2FObsidian). 
+Most pages will contain a table of contents. This is a [Markdown](https://www.markdownguide.org/cheat-sheet/) set of links to headings in the page. It is created using an extension within [Obsidian](https://obsidian.md/). Instructions for how to use / insert these may be found at [[Obsidian]]#Table of Contents. 
 
 ## Best Viewed in Obsidian
-Some features are best viewed in Obsidian, in particular PlantUML and social media links will display in more visual ways within the Obsidian editor. This allows one to view this information more freely than via Github online.
+Some features are best viewed in [Obsidian](https://obsidian.md/), in particular [PlantUML](https://plantuml.com/) and social media links will display in more visual ways within the [Obsidian](https://obsidian.md/) editor. This allows one to view this information more freely than via [Github](https://github.com/) online.
 
 Some examples:
 
