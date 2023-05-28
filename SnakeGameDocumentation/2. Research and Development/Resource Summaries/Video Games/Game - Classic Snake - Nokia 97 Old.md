@@ -1,4 +1,4 @@
-#randd #research #resources #summaries #nokia #snake #playsnake 
+#randd #research #resources #summaries #game #nokia #snake #playsnake 
 
 # Summary
 Recreation of the 1997 Nokia version of Snake. Played on an Android Phone.
@@ -36,16 +36,16 @@ Publication: [Sudhakar Kanakaraj](https://play.google.com/store/apps/dev?id=7850
 * Dot Matrix recreation making it easy to figure out which row/column you are on
 
 # Images
-![[RANDD-RS-Nokia97Snake-G.jpg]]
-![[RANDD-RS-Nokia97Snake-A.jpg]]
+![[RANDD-RS-VG-Nokia97Snake-G.jpg]]
+![[RANDD-RS-VG-Nokia97Snake-A.jpg]]
 
-![[RANDD-RS-Nokia97Snake-B.jpg]]
+![[RANDD-RS-VG-Nokia97Snake-B.jpg]]
 
-![[RANDD-RS-Nokia97Snake-C.jpg]]
+![[RANDD-RS-VG-Nokia97Snake-C.jpg]]
 
-![[RANDD-RS-Nokia97Snake-D.jpg]]
+![[RANDD-RS-VG-Nokia97Snake-D.jpg]]
 
-![[RANDD-RS-Nokia97Snake-E.jpg]]
+![[RANDD-RS-VG-Nokia97Snake-E.jpg]]
 
-![[RANDD-RS-Nokia97Snake-F.jpg]]
-![[RANDD-RS-Nokia97Snake-H.jpg]]
+![[RANDD-RS-VG-Nokia97Snake-F.jpg]]
+![[RANDD-RS-VG-Nokia97Snake-H.jpg]]

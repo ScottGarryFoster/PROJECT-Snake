@@ -1,4 +1,4 @@
-#randd #research #resources #summaries #playsnake
+#randd #research #resources #summaries #game #playsnake
 
 # Summary
 Game summary from an online recreation of the game
@@ -30,8 +30,8 @@ Publication: Neave Interactive
 * Sound on count down, eating food and death
 
 # Images
-![[RANDD-RS-PlaySnake-A.png]]
-![[RANDD-RS-PlaySnake-D.png]]
-![[RANDD-RS-PlaySnake-E.png]]
-![[RANDD-RS-PlaySnake-C.png]]
-![[RANDD-RS-PlaySnake-B.png]]
+![[RANDD-RS-VG-PlaySnake-A.png]]
+![[RANDD-RS-VG-PlaySnake-D.png]]
+![[RANDD-RS-VG-PlaySnake-E.png]]
+![[RANDD-RS-VG-PlaySnake-C.png]]
+![[RANDD-RS-VG-PlaySnake-B.png]]

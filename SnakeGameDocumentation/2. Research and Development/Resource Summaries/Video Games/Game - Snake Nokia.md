@@ -29,6 +29,6 @@ Publication: **Gamepik**
 * Enter any key may be pressed on death to restart game
 
 # Images
-![[RANDD-RS-SnakeNokia-C.png]]
-![[RANDD-RS-SnakeNokia-B.png]]
-![[RANDD-RS-SnakeNokia-A.png]]
+![[RANDD-RS-VG-SnakeNokia-C.png]]
+![[RANDD-RS-VG-SnakeNokia-B.png]]
+![[RANDD-RS-VG-SnakeNokia-A.png]]

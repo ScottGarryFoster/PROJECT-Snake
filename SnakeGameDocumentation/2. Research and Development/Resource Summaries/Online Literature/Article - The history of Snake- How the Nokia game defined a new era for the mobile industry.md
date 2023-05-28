@@ -1,4 +1,4 @@
-#randd #research #resources #summaries #snake
+#randd #research #resources #summaries #article #snake
 
 # Summary
 A brief history of the snake game and how it became a hit in the modern era. The rise of mobile gaming, from the Nokia games to iPhone. How mobile phones became household and a brief history of their rise.
@@ -22,6 +22,6 @@ Publication: It's Nice That
 * Many games similar to snake on the market now (over 420 claimed)
 
 ## Images from Article
-![[RANDD-RS-HistorySnake1-A.png]]
-![[RANDD-RS-HistorySnake1-C.png]]
-![[RANDD-RS-HistorySnake1-B.png]]
+![[RANDD-RS-OL-HistorySnake1-A.png]]
+![[RANDD-RS-OL-HistorySnake1-C.png]]
+![[RANDD-RS-OL-HistorySnake1-B.png]]
