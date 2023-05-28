@@ -20,6 +20,7 @@ Publication: Neave Interactive
 * Food increases size of snake by one each time
 * Score is based on time to get food not just snake size
 * Can only quit on death
+* Start at a size of three
 
 ## Interface
 * Score is displayed on screen
