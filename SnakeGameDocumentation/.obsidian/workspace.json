@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Research and Development/Overview.md",
+                "file": "2. Research and Development/2. Idea Development/Idea - Simple Snake.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Research and Development/Overview.md",
+                "file": "2. Research and Development/2. Idea Development/Idea - Simple Snake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Research and Development/Overview.md",
+                "file": "2. Research and Development/2. Idea Development/Idea - Simple Snake.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Research and Development/Overview.md"
+                "file": "2. Research and Development/2. Idea Development/Idea - Simple Snake.md"
               }
             }
           }
@@ -161,47 +161,52 @@
   },
   "active": "edf0e43854337fb2",
   "lastOpenFiles": [
+    "2. Research and Development/Overview.md",
+    "2. Research and Development/2. Idea Development/Idea - Simple Snake.md",
+    "3. Design/Planning/Templates/Single Feature Template.md",
+    "2. Research and Development/1. Resource Summaries/Template.md",
+    "2. Research and Development/1. Resource Summaries/Online Literature/Article - The history of Snake- How the Nokia game defined a new era for the mobile industry.md",
+    "2. Research and Development/1. Resource Summaries/Video Games/Game - PlaySnake.org.md",
+    "2. Research and Development/1. Resource Summaries/Video Games/Game - Classic Snake - Nokia 97 Old.md",
+    "2. Research and Development/1. Resource Summaries/Video Games/Game - Snake Nokia.md",
+    "2. Research and Development/1. Resource Summaries/Video Games/LinkedFiles/RANDD-RS-VG-SnakeNokia-C.png",
+    "2. Research and Development/1. Resource Summaries/Video Games/LinkedFiles/RANDD-RS-VG-Nokia97Snake-A.jpg",
+    "2. Research and Development/1. Resource Summaries/Online Literature/LinkedFiles/RANDD-RS-OL-HistorySnake1-A.png",
+    "2. Research and Development/1. Resource Summaries/Video Games/LinkedFiles",
+    "2. Research and Development/1. Resource Summaries/Video Games/LinkedFiles/RANDD-RS-VG-Nokia97Snake-H.jpg",
+    "2. Research and Development/1. Resource Summaries/Video Games/LinkedFiles/RANDD-RS-VG-SnakeNokia-B.png",
+    "2. Research and Development/1. Resource Summaries/Video Games/LinkedFiles/RANDD-RS-VG-SnakeNokia-A.png",
+    "2. Research and Development/1. Resource Summaries/Online Literature/LinkedFiles",
+    "2. Research and Development/1. Resource Summaries/Video Games",
+    "2. Research and Development/1. Resource Summaries/Online Literature",
+    "2. Research and Development/1. Resource Summaries/Video Games/LinkedFiles/RANDD-RS-VG-Nokia97Snake-E.jpg",
+    "2. Research and Development/1. Resource Summaries/Video Games/LinkedFiles/RANDD-RS-VG-Nokia97Snake-F.jpg",
+    "2. Research and Development/1. Resource Summaries/Video Games/LinkedFiles/RANDD-RS-VG-Nokia97Snake-D.jpg",
+    "2. Research and Development/1. Resource Summaries/Video Games/LinkedFiles/RANDD-RS-VG-Nokia97Snake-C.jpg",
+    "2. Research and Development/1. Resource Summaries/LinkedFiles",
+    "3. Design/Overview.md",
     "1. Documentation/Knowledge Base/Resources.md",
+    "1. Documentation/Knowledge Base/Obsidian.md",
+    "1. Documentation/Knowledge Base/Markdown.md",
+    "1. Documentation/Knowledge Base/Github Desktop.md",
     "1. Documentation/Knowledge Base/Github.md",
     "1. Documentation/Overview.md",
-    "3. Design/Planning/Templates/Single Feature Template.md",
+    "2. Research and Development/3. Prototyping",
+    "2. Research and Development/2. Idea Development",
+    "2. Research and Development/1. Resource Summaries",
     "3. Design/Planning/Templates/Design Documents.md",
     "4. Technical/Knowledge Base/Standards/Naming.md",
     "4. Technical/Knowledge Base/Standards/Template.md",
     "4. Technical/Knowledge Base/Standards/Testing and Test Driven Development.md",
     "4. Technical/Planning/Templates/TDD Template.md",
     "4. Technical/Planning/Templates/System Template.md",
-    "2. Research and Development/Overview.md",
-    "1. Documentation/Knowledge Base/Github Desktop.md",
-    "1. Documentation/Knowledge Base/Markdown.md",
-    "1. Documentation/Knowledge Base/Obsidian.md",
     "7. Marketing and PR/Placeholder.md",
     "6. Distribution/Placeholder.md",
     "5. Assets and Software/Placeholder.md",
     "4. Technical/Knowledge Base/Standards/Exceptions.md",
     "4. Technical/Knowledge Base/Standards/Assemblies and Projects.md",
-    "4. Technical/Knowledge Base/Standards/Code Structure.md",
-    "3. Design/Overview.md",
-    "1. Documentation/LinkedFiles/Documentation-YoutubeLink.png",
-    "1. Documentation/LinkedFiles/Documentation-PlantUMLText.png",
-    "Documentation-PlantUML.md",
-    "Pasted image 20230527113727.png",
-    "Pasted image 20230527113721.png",
     "1. Documentation/LinkedFiles",
-    "1. Documentation/LinkedFiles/Documentation-PlantUMLImage.png",
-    "Untitled.md",
-    "here.md",
-    "Documentation%2FKnowledge Base%2FObsidian.md",
     "1. Documentation/Knowledge Base",
-    "Untitled",
-    "5. Assets and Software",
-    "7. Marketing and PR",
-    "6. Distribution",
-    "2. Research and Development",
-    "1. Documentation",
-    "4. Technical/Planning/Templates",
-    "2023-05-24.md",
-    "3. Design/Knowledge Base",
     "Technical/Knowleadge Base/Standards/Relationships.canvas"
   ]
 }

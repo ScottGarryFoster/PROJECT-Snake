@@ -1,5 +1,19 @@
 #documentation #Obsidian #github 
 
+**Table of contents**
+- [Summary](#Summary)
+- [Best Practices](#Best%20Practices)
+- [Common Categories](#Common%20Categories)
+	- [Knowledge Base](#Knowledge%20Base)
+	- [Planning](#Planning)
+	- [Templates](#Templates)
+- [Common Features](#Common%20Features)
+	- [Document Status](#Document%20Status)
+	- [Tags at the top](#Tags%20at%20the%20top)
+	- [Table of Contents](#Table%20of%20Contents)
+	- [Best Viewed in Obsidian](#Best%20Viewed%20in%20Obsidian)
+
+
 # Summary
 All the documentation, planning, guides and notes for the project are found here. The documentation may be viewed online via [Github](https://github.com/ScottGarryFoster/PROJECT-Snake/blob/main/SnakeGameDocumentation) the better method however is to install [Github desktop](https://desktop.github.com/), [Obsidian](https://obsidian.md/) and open this as a Vault see instructions here.
 
