@@ -1,0 +1,32 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiLayoutTemplate",
+      "FasFile",
+      "FasRulerCombined",
+      "FasBookOpenReader"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false
+  },
+  "1. Documentation/Knowledge Base": "FasBookOpenReader",
+  "3. Design/Knowledge Base": "FasBookOpenReader",
+  "4. Technical/Knowledge Base": "FasBookOpenReader",
+  "3. Design/Planning": "FasRulerCombined",
+  "4. Technical/Planning": "FasRulerCombined",
+  "1. Documentation/LinkedFiles": "FasFile",
+  "3. Design/Planning/Templates": "LiLayoutTemplate",
+  "4. Technical/Planning/Templates": "LiLayoutTemplate"
+}

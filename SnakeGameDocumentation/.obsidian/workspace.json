@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design/Planning/Templates/Single Feature Template.md",
+                "file": "1. Documentation/Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "edf0e43854337fb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Research and Development/Overview.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design/Planning/Templates/Single Feature Template.md",
+                "file": "2. Research and Development/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design/Planning/Templates/Single Feature Template.md",
+                "file": "2. Research and Development/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design/Planning/Templates/Single Feature Template.md"
+                "file": "2. Research and Development/Overview.md"
               }
             }
           }
@@ -146,31 +159,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5f1582fbc79acc9",
+  "active": "edf0e43854337fb2",
   "lastOpenFiles": [
-    "Design/Planning/Templates/Design Documents.md",
-    "Design/Planning/Templates/Single Feature Template.md",
-    "Technical/Planning/Templates/System Template.md",
-    "Technical/Planning/Templates/TDD Template.md",
-    "Technical/Planning/Templates",
+    "1. Documentation/Knowledge Base/Resources.md",
+    "1. Documentation/Knowledge Base/Github.md",
+    "1. Documentation/Overview.md",
+    "3. Design/Planning/Templates/Single Feature Template.md",
+    "3. Design/Planning/Templates/Design Documents.md",
+    "4. Technical/Knowledge Base/Standards/Naming.md",
+    "4. Technical/Knowledge Base/Standards/Template.md",
+    "4. Technical/Knowledge Base/Standards/Testing and Test Driven Development.md",
+    "4. Technical/Planning/Templates/TDD Template.md",
+    "4. Technical/Planning/Templates/System Template.md",
+    "2. Research and Development/Overview.md",
+    "1. Documentation/Knowledge Base/Github Desktop.md",
+    "1. Documentation/Knowledge Base/Markdown.md",
+    "1. Documentation/Knowledge Base/Obsidian.md",
+    "7. Marketing and PR/Placeholder.md",
+    "6. Distribution/Placeholder.md",
+    "5. Assets and Software/Placeholder.md",
+    "4. Technical/Knowledge Base/Standards/Exceptions.md",
+    "4. Technical/Knowledge Base/Standards/Assemblies and Projects.md",
+    "4. Technical/Knowledge Base/Standards/Code Structure.md",
+    "3. Design/Overview.md",
+    "1. Documentation/LinkedFiles/Documentation-YoutubeLink.png",
+    "1. Documentation/LinkedFiles/Documentation-PlantUMLText.png",
+    "Documentation-PlantUML.md",
+    "Pasted image 20230527113727.png",
+    "Pasted image 20230527113721.png",
+    "1. Documentation/LinkedFiles",
+    "1. Documentation/LinkedFiles/Documentation-PlantUMLImage.png",
+    "Untitled.md",
+    "here.md",
+    "Documentation%2FKnowledge Base%2FObsidian.md",
+    "1. Documentation/Knowledge Base",
+    "Untitled",
+    "5. Assets and Software",
+    "7. Marketing and PR",
+    "6. Distribution",
+    "2. Research and Development",
+    "1. Documentation",
+    "4. Technical/Planning/Templates",
     "2023-05-24.md",
-    "Design/Knowledge Base",
-    "Design/Planning",
-    "Technical/Planning/System Design Documents",
-    "Technical/Planning/Technical Design Documents",
-    "Technical/Planning",
-    "Technical/Knowledge Base/Standards/Template.md",
-    "Technical/Knowledge Base/Standards/Assemblies and Projects.md",
-    "Overview.md",
-    "Design/Planning/Templates",
-    "Technical/Knowledge Base/Standards/Testing and Test Driven Development.md",
-    "Technical/Knowledge Base/Standards/Naming.md",
-    "Technical/Knowledge Base/Standards/Exceptions.md",
-    "Technical/Knowledge Base/Standards/Code Structure.md",
-    "Technical/Knowleadge Base/Standards/Relationships.canvas",
-    "Technical/Knowleadge Base/Standards/Discussions/Testing and Mocks.md",
-    "Technical/Knowleadge Base/Standards/Discussions",
-    "Technical/Knowledge Base/Standards",
-    "Technical/Knowleadge Base/New folder"
+    "3. Design/Knowledge Base",
+    "Technical/Knowleadge Base/Standards/Relationships.canvas"
   ]
 }
