@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Research and Development/Resource Summaries/Article- The history of Snake- How the Nokia game defined a new era for the mobile industry.md",
+                "file": "2. Research and Development/Resource Summaries/Game- PlaySnake.org.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Research and Development/Resource Summaries/Article- The history of Snake- How the Nokia game defined a new era for the mobile industry.md",
+                "file": "2. Research and Development/Resource Summaries/Game- PlaySnake.org.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Research and Development/Resource Summaries/Article- The history of Snake- How the Nokia game defined a new era for the mobile industry.md",
+                "file": "2. Research and Development/Resource Summaries/Game- PlaySnake.org.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Research and Development/Resource Summaries/Article- The history of Snake- How the Nokia game defined a new era for the mobile industry.md"
+                "file": "2. Research and Development/Resource Summaries/Game- PlaySnake.org.md"
               }
             }
           }
@@ -161,12 +161,18 @@
   },
   "active": "edf0e43854337fb2",
   "lastOpenFiles": [
-    "2. Research and Development/Resource Summaries/LinkedFiles/RANDD-RS-HistorySnake1-A.png",
+    "2. Research and Development/Resource Summaries/LinkedFiles/RANDD-RS-PlaySnake-E.png",
+    "2. Research and Development/Resource Summaries/LinkedFiles/RANDD-RS-PlaySnake-D.png",
+    "2. Research and Development/Resource Summaries/LinkedFiles/RANDD-RS-PlaySnake-C.png",
+    "2. Research and Development/Resource Summaries/LinkedFiles/RANDD-RS-PlaySnake-B.png",
+    "2. Research and Development/Resource Summaries/LinkedFiles/RANDD-RS-PlaySnake-A.png",
+    "2. Research and Development/Resource Summaries/Game- PlaySnake.org.md",
     "2. Research and Development/Resource Summaries/Article- The history of Snake- How the Nokia game defined a new era for the mobile industry.md",
+    "2. Research and Development/Resource Summaries/Template.md",
+    "2. Research and Development/Resource Summaries/LinkedFiles/RANDD-RS-HistorySnake1-A.png",
     "2. Research and Development/Resource Summaries/LinkedFiles",
     "2. Research and Development/Resource Summaries/LinkedFiles/RANDD-RS-HistorySnake1-B.png",
     "2. Research and Development/Resource Summaries/LinkedFiles/RANDD-RS-HistorySnake1-C.png",
-    "2. Research and Development/Resource Summaries/Template.md",
     "2. Research and Development/Overview.md",
     "3. Design/Overview.md",
     "1. Documentation/Knowledge Base/Resources.md",
@@ -194,11 +200,7 @@
     "1. Documentation/LinkedFiles/Documentation-YoutubeLink.png",
     "1. Documentation/LinkedFiles/Documentation-PlantUMLText.png",
     "Documentation-PlantUML.md",
-    "Pasted image 20230527113727.png",
-    "Pasted image 20230527113721.png",
     "1. Documentation/LinkedFiles",
-    "1. Documentation/LinkedFiles/Documentation-PlantUMLImage.png",
-    "Untitled.md",
     "1. Documentation/Knowledge Base",
     "Untitled",
     "5. Assets and Software",
