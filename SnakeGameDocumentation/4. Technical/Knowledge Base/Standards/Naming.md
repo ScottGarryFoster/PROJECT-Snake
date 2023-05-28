@@ -1,5 +1,4 @@
-
-#standards #csharp #naming #class #name
+#technical #standards #csharp #naming #class #name
 
 |Owner|State|Last_update|
 |--|--|--|
