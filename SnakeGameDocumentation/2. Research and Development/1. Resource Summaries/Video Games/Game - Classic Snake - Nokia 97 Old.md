@@ -1,5 +1,17 @@
 #randd #research #resources #summaries #game #nokia #snake #playsnake 
 
+|Owner|State|Last_update|
+|--|--|--|
+|@ScottGarryFoster|Signed off|29 May 2023|
+
+**Table of contents**
+- [Summary](#Summary)
+- [Take-Aways](#Take-Aways)
+	- [Mechanics](#Mechanics)
+	- [Interface](#Interface)
+	- [Visuals](#Visuals)
+- [Images](#Images)
+
 # Summary
 Recreation of the 1997 Nokia version of Snake. Played on an Android Phone.
 
