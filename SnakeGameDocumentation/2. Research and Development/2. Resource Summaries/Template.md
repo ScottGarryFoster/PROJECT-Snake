@@ -1,4 +1,5 @@
-<font color="#f79646"><u><b>Note name should be: Source Type - Title</b></u></font> - delete this line when named.
+>Note name should be: Source Type - Title - delete this line (and next) when named.
+
 #randd #research #resources #summaries *Add Tags here - add a tag for the source type!*
 
 |Owner|State|Last_update|
