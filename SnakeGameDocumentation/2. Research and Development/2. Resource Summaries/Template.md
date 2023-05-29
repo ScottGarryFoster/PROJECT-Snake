@@ -13,9 +13,9 @@
 # Summary
 >Add Summary
 
-Source: <font color="#f79646"><u><b>LINK OR WRITE IN ISBN HERE</b></u></font>
-Date: <font color="#f79646"><u><b>DATE AS: DATE FULL-MONTH YEAR</b></u></font>
-Publication: <font color="#f79646"><u><b>PUBLICATION SOURCE</b></u></font>
+>Source: [LINK] by [PERSON/PEOPLE]
+>Date: NUMBER(ST/ND/RD/TH) MONTH YEAR
+>Publication: SITE/PUBLISHER
 
 # Take-Aways
 >Write notes from the source
