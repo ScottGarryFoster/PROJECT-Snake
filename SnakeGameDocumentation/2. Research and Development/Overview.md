@@ -1,7 +1,8 @@
 #randd #research #concept
 
-**Table of Contents**
+**Table of contents**
 - [Summary](#Summary)
+- [References and Sources](#References%20and%20Sources)
 - [Resource Summaries](#Resource%20Summaries)
 - [Idea Development](#Idea%20Development)
 - [Prototyping](#Prototyping)
@@ -9,9 +10,14 @@
 	- [Playtest and Review](#Playtest%20and%20Review)
 	- [Overall Review](#Overall%20Review)
 
-
 # Summary
 Research and development encompasses the entire concept and idea development for the project. This is the home of ideas and the core origins of the ideas. There may be research performed in other areas with the heading research and development however this category is for pre-game, pre-design decisions. Additionally if there are major changes or major new elements these are also captured within this area.
+
+You can think of each section referencing the previous section. References are the source of resources (unless directly searched). Ideas are found in the Resource summaries (unless wrought from the mind of the creator). Prototypes are foundationally from Idea development.
+
+---
+# References and Sources
+This contains the origins for the resources of ideas or concepts. Think of this section as resources for resources. If there is a list of games to try out, this does not make great primary research for a resource summary but playing the games does - resource for a resource. If there is a book recommendation, new release list or sales chart - all of these are reasons to review and add to the resource summary section.
 
 ---
 # Resource Summaries
