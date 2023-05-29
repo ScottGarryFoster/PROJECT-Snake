@@ -1,5 +1,16 @@
 #randd #research #resources #summaries #game #snake 
 
+|Owner|State|Last_update|
+|--|--|--|
+|@ScottGarryFoster|Signed off|29 May 2023|
+
+**Table of contents**
+- [Summary](#Summary)
+- [Take-Aways](#Take-Aways)
+	- [Mechanics](#Mechanics)
+	- [Interface](#Interface)
+- [Images](#Images)
+
 # Summary
 Recreation of the Nokia version of Snake 2 in HTML5 using Construct 2 (game engine).
 
