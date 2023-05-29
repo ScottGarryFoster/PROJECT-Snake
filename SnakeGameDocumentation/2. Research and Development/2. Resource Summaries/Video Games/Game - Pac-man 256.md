@@ -100,3 +100,17 @@ Some information from the below is from this source: [Fruits and Ghosts by App G
 10. Sound upon a high score achieved such as best chain or best general high score
 11. Different sound upon a new high score in general at the end of a level / death almost like clinks of coins out of an arcade machine
 12. Coin Loot crate sound builds up until opening each coin then makes a sound as it reaches the wallet
+
+# Images
+![[RANDD-RS-VG-Pacman256-A.png]]
+![[RANDD-RS-VG-Pacman256-B.png]]
+![[RANDD-RS-VG-Pacman256-C.png]]
+![[RANDD-RS-VG-Pacman256-D.png]]
+![[RANDD-RS-VG-Pacman256-E.png]]
+![[RANDD-RS-VG-Pacman256-F.png]]
+![[RANDD-RS-VG-Pacman256-G.png]]
+![[RANDD-RS-VG-Pacman256-H.png]]
+![[RANDD-RS-VG-Pacman256-I.png]]
+![[RANDD-RS-VG-Pacman256-M.png]]
+![[RANDD-RS-VG-Pacman256-J.png]]
+![[RANDD-RS-VG-Pacman256-K.png]]![[RANDD-RS-VG-Pacman256-L.png]]![[RANDD-RS-VG-Pacman256-N.png]]
