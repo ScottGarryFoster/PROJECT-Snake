@@ -1,5 +1,7 @@
 #technical #knowleadgebase #technologies #unity #tdd #testdrivendevelopment 
 
+> or rather, headaches with Unity testing and how to solve them.
+
 |Owner|State|Last_update|
 |--|--|--|
 |@ScottGarryFoster|Development|1st July 2023|
@@ -222,3 +224,22 @@ To create more stable tests test in this manner:
 > Also be considerate of these situation for QA tests.
 
 ---
+## Edit & Play mode breaks
+### Summary
+For seemingly no reason at all, the option Edit and Play Mode breaks Rider. Whilst creating tests you will probably create both editor and play based tests. An option within Rider might temp you into running all the tests all at once, Edit & Play mode.
+
+The Edit & Play Mode option freezes the Unit Tests to the point where the output occurs and yet the tests do not fully resolve. To fix this, open up task manager and close Unity Editor.
+
+### Example
+This is a test project which contains no other code than an Editor based set of tests.
+The option selected is Edit & Play. Notice the execution 'stop' button. This will remain forever.
+![[T-KB-T-U-TDD-001.png]]
+When I close the Unity instance it resolves.
+![[T-KB-T-U-TDD-004.png]]
+If I ran the tests more than once then you **need to use task manager to resolve the tests**.
+![[T-KB-T-U-TDD-003.png]]
+![[T-KB-T-U-TDD-002.png]]
+When selecting Edit mode, the test passed and then resolved - the Unity instance sent the signal back.
+
+### Solution
+* Run Editor tests with Edit mode, Player with Play Mode.

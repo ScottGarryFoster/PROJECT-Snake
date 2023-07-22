@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Technical/Knowledge Base/Technologies/Unity/Test Driven Development/Intuitive Techniques which do not work.md",
+                "file": "2. Research and Development/2. Resource Summaries/Video Games/Game - Classic Snake - Nokia 97 Old.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Technical/Knowledge Base/Technologies/Unity/Test Driven Development/Intuitive Techniques which do not work.md",
+                "file": "2. Research and Development/2. Resource Summaries/Video Games/Game - Classic Snake - Nokia 97 Old.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Technical/Knowledge Base/Technologies/Unity/Test Driven Development/Intuitive Techniques which do not work.md",
+                "file": "2. Research and Development/2. Resource Summaries/Video Games/Game - Classic Snake - Nokia 97 Old.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Technical/Knowledge Base/Technologies/Unity/Test Driven Development/Intuitive Techniques which do not work.md"
+                "file": "2. Research and Development/2. Resource Summaries/Video Games/Game - Classic Snake - Nokia 97 Old.md"
               }
             }
           }
@@ -173,14 +173,22 @@
   },
   "active": "ee47f63b38e9cc14",
   "lastOpenFiles": [
-    "2. Research and Development/5. Technical Research/Talks/Talk -  You are doing logging in .NET wrong. Let’s fix it. - Nick Chapsas - NDC Oslo 2023.md",
+    "2. Research and Development/3. Idea Development/Idea - Simple Snake.md",
+    "2. Research and Development/3. Idea Development/Idea - Infinite Runner Snake.md",
+    "1. Documentation/Overview.md",
+    "4. Technical/Knowledge Base/Technologies/Unity/Test Driven Development/LinkedFiles/T-KB-T-U-TDD-001.png",
+    "4. Technical/Knowledge Base/Technologies/Unity/Test Driven Development/Intuitive Techniques which do not work.md",
+    "4. Technical/Knowledge Base/Technologies/Unity/Test Driven Development/LinkedFiles/T-KB-T-U-TDD-004.png",
+    "4. Technical/Knowledge Base/Technologies/Unity/Test Driven Development/LinkedFiles/T-KB-T-U-TDD-003.png",
+    "4. Technical/Knowledge Base/Technologies/Unity/Test Driven Development/LinkedFiles/T-KB-T-U-TDD-002.png",
+    "4. Technical/Knowledge Base/Technologies/Unity/Test Driven Development/LinkedFiles",
     "Pasted image 20230629220420.png",
+    "2. Research and Development/5. Technical Research/Talks/Talk -  You are doing logging in .NET wrong. Let’s fix it. - Nick Chapsas - NDC Oslo 2023.md",
     "You.md",
     "2. Research and Development/2. Resource Summaries/Template.md",
     "2. Research and Development/5. Technical Research/Talks",
     "4. Technical/Knowledge Base/Standards/Code Structure.md",
     "4. Technical/Knowledge Base/Standards/Naming.md",
-    "4. Technical/Knowledge Base/Technologies/Unity/Test Driven Development/Intuitive Techniques which do not work.md",
     "4. Technical/Knowledge Base/Standards/Template.md",
     "2. Research and Development/1. References and Sources/Template.md",
     "3. Design/Planning/Templates/Design Documents.md",
@@ -190,7 +198,6 @@
     "4. Technical/Knowledge Base/Technologies/Unity",
     "4. Technical/Knowledge Base/Technologies",
     "4. Technical/Knowledge Base/Standards/Exceptions.md",
-    "1. Documentation/Overview.md",
     "2. Research and Development/5. Technical Research/Game Tech/Overview.md",
     "2. Research and Development/5. Technical Research/Game Tech/MonoGame.md",
     "2. Research and Development/5. Technical Research/Game Tech/SDL 2.md",
@@ -208,16 +215,10 @@
     "2. Research and Development/2. Resource Summaries/Video Games/LinkedFiles/RANDD-RS-VG-Pacman256-M.png",
     "2. Research and Development/2. Resource Summaries/Video Games/LinkedFiles/RANDD-RS-VG-Pacman256-L.png",
     "2. Research and Development/2. Resource Summaries/Video Games/LinkedFiles/RANDD-RS-VG-Pacman256-K.png",
-    "2. Research and Development/2. Resource Summaries/Video Games/LinkedFiles/RANDD-RS-VG-Pacman256-J.png",
-    "2. Research and Development/2. Resource Summaries/Video Games/LinkedFiles/RANDD-RS-VG-Pacman256-I.png",
-    "2. Research and Development/2. Resource Summaries/Video Games/LinkedFiles/RANDD-RS-VG-Pacman256-H.png",
-    "2. Research and Development/2. Resource Summaries/Video Games/LinkedFiles/RANDD-RS-VG-Pacman256-G.png",
     "2. Research and Development/1. References and Sources/Article - 12 Best Endless Runner Mobile Games, Ranked.md",
-    "2. Research and Development/Overview.md",
     "2. Research and Development/1. References and Sources",
     "2. Research and Development/2. Resource Summaries/Video Games/LinkedFiles",
     "2. Research and Development/2. Resource Summaries/Online Literature/LinkedFiles",
-    "2. Research and Development/2. Resource Summaries/Video Games",
     "Technical/Knowleadge Base/Standards/Relationships.canvas"
   ]
 }
