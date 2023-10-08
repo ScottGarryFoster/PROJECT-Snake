@@ -34,7 +34,7 @@ string becomes = string.Format("I am {0} and I am {1} years old", name, age);
 
 > Key take away, heap fast, stack slow. Strings and boxing always on the heap.
 
-![[Pasted image 20230629220420.png]]
+![[RandD-TR-Talks-A-001.png]]
 
 ## CHANGE ME???
 >Use headings as needed
